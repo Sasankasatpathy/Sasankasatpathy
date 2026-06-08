@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SASANKA.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasankasatpathy&label=Profile%20views&color=0e75b6&style=flat" alt="sasankasatpathy" /> </p>
 
-- 🌱 I’m currently learning **Btech,computer science**
+- 🌱 I’m currently Gaining Expereance on **Data Analyst**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sasanka-sekhar-satpathy-6b5b83232](https://www.linkedin.com/in/sasanka-sekhar-satpathy-6b5b83232)
 
